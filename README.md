@@ -15,4 +15,7 @@ Took an hour and a half. Seven submissions. This is because i didn't understand 
 
 Also, i learned that i could use map() function to map inputs as int in the list, while spltting them. theList = list(map(int,input().split()))
 
+# 50A - Domino Pilling
+Easiest A category code i have attempted so far. Only required to run once and figure out pattern in input and output.
+
 # Next codeforces when?
