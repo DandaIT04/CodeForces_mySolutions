@@ -18,4 +18,5 @@ Also, i learned that i could use map() function to map inputs as int in the list
 # 50A - Domino Pilling
 Easiest A category code i have attempted so far. Only required to run once and figure out pattern in input and output.
 
-# Next codeforces when?
+# 282A - Bit++
+startValue = 0. Every x++ is startValue +1 and every x-- is startvalue -1. Simply removed x by using text.replace("x","") then use function if "++" in value, startValue + 1
