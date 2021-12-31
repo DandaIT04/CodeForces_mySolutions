@@ -23,3 +23,6 @@ startValue = 0. Every x++ is startValue +1 and every x-- is startvalue -1. Simpl
 
 # 263A - Beautiful Matrix
 From 218ms to 92ms, refactored code twice. Mine spans many lines because i thought of putting the puzzles together piece by piece. I could have actually "started" the solution after each input, making it faster, rather than giving my solutions after receiving all the inputs into a matrix.
+
+# 112A - Petya and Strings
+I still don't understand what i was supposed to get from this. Changing letters to numbers based on ascii did not pass the 5th test case. I actually had to look at solutions online to find out why i was wrong but they only provided solutions but never clearly stated why mine wouldn't work.
