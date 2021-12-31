@@ -36,3 +36,6 @@ Could have replaced ' ' with '+'. I didn't know i could just join strings this w
 
 # 281A - Word Capitalization
 Could have just done print(word[0].capitalize() + word[1:]). Well learnt something new this problem
+
+# 266A - Stones on the table
+The problem felt familiar and immediately the TwoSum solution from leetcode i learned came into my mind and i applied it.
