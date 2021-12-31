@@ -28,8 +28,8 @@ From 218ms to 92ms, refactored code twice. Mine spans many lines because i thoug
 I still don't understand what i was supposed to get from this. Changing letters to numbers based on ascii did not pass the 5th test case. I actually had to look at solutions online to find out why i was wrong but they only provided solutions but never clearly stated why mine wouldn't work.
 
 # 339A - Helpful Maths
-From Programmiz
-# join elements of text with space
+From Programmiz:
+join elements of text with space
 print(' '.join(text))
 
 Could have replaced ' ' with '+'. I didn't know i could just join strings this way rather than "1" + "+" + "2" etc
