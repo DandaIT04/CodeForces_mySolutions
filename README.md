@@ -33,3 +33,6 @@ join elements of text with space
 print(' '.join(text))
 
 Could have replaced ' ' with '+'. I didn't know i could just join strings this way rather than "1" + "+" + "2" etc
+
+# 281A - Word Capitalization
+Could have just done print(word[0].capitalize() + word[1:]). Well learnt something new this problem
