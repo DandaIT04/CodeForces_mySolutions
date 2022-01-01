@@ -1,5 +1,8 @@
 # CodeForces_mySolutions
-My Solutions for codeforces problems
+My Solutions for codeforces problems. Hopefully to be ranked in codeforces one day.
+
+Codeforces Profile
+(https://codeforces.com/profile/dandarohanibusiness)
 
 # 4A - Watermelon
 Solved in 30 minutes. Was not used to how submission for codeforces solutions worked.
