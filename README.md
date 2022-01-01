@@ -45,3 +45,6 @@ The problem felt familiar and immediately the TwoSum solution from leetcode i le
 
 # 236A - Boy Or Girl
 Learned to remove duplicates in list by converting list to dict using elements in list as keys. As keys cannot have duplicate values, duplicated values wont be included.
+
+# 791A - Bear and Big Brother
+Multiple given inputs twice and thrice respectively. Simple problem with no need of explanation.
