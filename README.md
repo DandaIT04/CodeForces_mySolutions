@@ -39,3 +39,6 @@ Could have just done print(word[0].capitalize() + word[1:]). Well learnt somethi
 
 # 266A - Stones on the table
 The problem felt familiar and immediately the TwoSum solution from leetcode i learned came into my mind and i applied it.
+
+# 236A - Boy Or Girl
+Learned to remove duplicates in list by converting list to dict using elements in list as keys. As keys cannot have duplicate values, duplicated values wont be included.
