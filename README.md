@@ -52,3 +52,7 @@ Multiple given inputs twice and thrice respectively. Simple problem with no need
 # 546A - Soldier And Bananas
 Each banana cost banana cost * amount of bananas. Calculate how the amount of money soldier has to borrow from his friend if he has
 x value in his wallet.
+
+# 617A - Elephant
+Made a few mistakes for example i printed the input rather than the int value 1 and not using math.floor() for input/5 as the
+division can return the value as a float value, which affects test case #5
