@@ -58,4 +58,4 @@ Made a few mistakes for example i printed the input rather than the int value 1 
 division can return the value as a float value, which affects test case #5
 
 # 59A - Word
-It is a simple problem but i feel unsatisfied with the solution i have provided. I feel like its taking too many lines.
+Resubmitted my code to make it much faster by removing unnecessary assignment of new list variable
