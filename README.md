@@ -48,3 +48,7 @@ Learned to remove duplicates in list by converting list to dict using elements i
 
 # 791A - Bear and Big Brother
 Multiple given inputs twice and thrice respectively. Simple problem with no need of explanation.
+
+# 546A - Soldier And Bananas
+Each banana cost banana cost * amount of bananas. Calculate how the amount of money soldier has to borrow from his friend if he has
+x value in his wallet.
