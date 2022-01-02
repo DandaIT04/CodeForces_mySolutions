@@ -56,3 +56,6 @@ x value in his wallet.
 # 617A - Elephant
 Made a few mistakes for example i printed the input rather than the int value 1 and not using math.floor() for input/5 as the
 division can return the value as a float value, which affects test case #5
+
+# 59A - Word
+It is a simple problem but i feel unsatisfied with the solution i have provided. I feel like its taking too many lines.
