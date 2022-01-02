@@ -2,31 +2,30 @@ import math
 
 class Solution(object):
     def majorityLower(self,theWord,theInput):
-        newList = list(theWord)
-        newList.sort()
-        theValue = math.floor((len(newList)/2)) + 1
+        theWord.sort()
+        theValue = math.floor((len(theWord)/2)) + 1
         
-        if len(newList) % 2 == 0:
-            if newList[theValue-1].isupper():
+        if len(theWord) % 2 == 0:
+            if theWord[theValue-1].isupper():
                 print(theInput.upper())
             else:
                 print(theInput.lower())
         else:
-            if len(newList) == 1:
+            if len(theWord) == 1:
                 print(theInput)
             else:    
-                if newList[theValue-1].isupper():
+                if theWord[theValue-1].isupper():
                     print(theInput.upper())
                 else:
                     print(theInput.lower())            
         
-#theInput = input()
-
-#theWord = list(theInput)
-
-theInput = "KSXBXWpebh"
+theInput = input()
 
 theWord = list(theInput)
+
+#theInput = "KSXBXWpebh"
+
+#theWord = list(theInput)
 
 runSolution = Solution()
 
