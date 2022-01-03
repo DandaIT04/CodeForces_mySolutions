@@ -59,3 +59,6 @@ division can return the value as a float value, which affects test case #5
 
 # 59A - Word
 Resubmitted my code to make it much faster by removing unnecessary assignment of new list variable
+
+# 977A - Wrong Subtraction
+Actually tried to make my code much faster by using while loops but it just didn't work. So submitted a code that will 100% work but is less efficient as it has to keep checking if statement rather than going through while loops which is much faster.
