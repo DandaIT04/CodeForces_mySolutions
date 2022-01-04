@@ -62,3 +62,6 @@ Resubmitted my code to make it much faster by removing unnecessary assignment of
 
 # 977A - Wrong Subtraction
 Changed my code back to while loops. By fixing some bugs i have where i decrement and increment values unnecessarily, it works now. From 61ms to 46ms. Much more efficient
+
+# 116A - Tram
+Probably be my last submission for now to focus on personal projects
